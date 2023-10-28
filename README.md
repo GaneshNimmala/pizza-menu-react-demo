@@ -1,6 +1,8 @@
 # Fast React Pizza Co.
 
 Fast React Pizza Co. is a simple React application that showcases a menu of delicious pizzas. It's a great example of a basic web application built with React.
+![image](https://github.com/GaneshNimmala/pizza-menu-react-demo/assets/109240115/e892c04f-a5bf-401e-bc12-719ba17c5e90)
+
 
 ## Table of Contents
 
